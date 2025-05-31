@@ -87,19 +87,6 @@ Microservices proposés pour "Gestion des prestataires" :
 📦 Helm Chart – Structure proposée
 
 📁 charts/provider/
-
-├── Chart.yaml
-├── values.yaml
-├── templates/
-│   ├── namespace.yaml
-│   ├── deployment-api.yaml
-│   ├── deployment-db.yaml
-│   ├── deployment-media.yaml
-│   ├── service-api.yaml
-│   ├── configmap.yaml
-│   ├── ingress.yaml
-│   └── secrets.yaml
-
 <img width="237" alt="Capture d’écran 2025-05-31 à 19 32 43" src="https://github.com/user-attachments/assets/7f513209-7fe4-40e5-95bc-57b4d4346906" />
 
 
