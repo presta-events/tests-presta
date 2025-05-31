@@ -9,7 +9,7 @@ Voici une proposition complète et raisonnée d’une roadmap fonctionnelle de P
 
 🧭 Chronologie des fonctionnalités avec explication stratégique
 
-Étape 1 — Gestion des prestataires (inscription, profils)
+## Étape 1 — Gestion des prestataires (inscription, profils)
 
 🧩 Pourquoi ?
 C’est le socle fonctionnel. Sans prestataires inscrits, aucun utilisateur ne peut effectuer de recherche ou de réservation.
@@ -27,7 +27,7 @@ C’est le socle fonctionnel. Sans prestataires inscrits, aucun utilisateur ne p
 
 —
 
-Étape 2 — Moteur de recherche & affichage des prestataires (côté utilisateur)
+## Étape 2 — Moteur de recherche & affichage des prestataires (côté utilisateur)
 
 🔍 Pourquoi ?
 Une fois les prestataires inscrits, les utilisateurs doivent pouvoir les trouver facilement pour créer de la valeur immédiatement.
@@ -44,7 +44,7 @@ Une fois les prestataires inscrits, les utilisateurs doivent pouvoir les trouver
 
 —
 
-Étape 3 — Système de notation et commentaires
+## Étape 3 — Système de notation et commentaires
 
 🌟 Pourquoi ?
 C’est un levier de confiance majeur pour les utilisateurs. Cela structure la réputation, la qualité et pousse les prestataires à l’excellence.
@@ -60,7 +60,7 @@ C’est un levier de confiance majeur pour les utilisateurs. Cela structure la r
 
 —
 
-Étape 4 — Système de disponibilité & calendrier
+## Étape 4 — Système de disponibilité & calendrier
 
 📅 Pourquoi ?
 Sans visibilité sur les créneaux disponibles, la réservation ou la prise de contact est peu pertinente. L’agenda évite les doubles réservations.
@@ -76,7 +76,7 @@ Sans visibilité sur les créneaux disponibles, la réservation ou la prise de c
 
 —
 
-Étape 5 — Système de réservation
+## Étape 5 — Système de réservation
 
 📦 Pourquoi ?
 C’est le cœur de la promesse client : permettre de réserver un prestataire de manière simple, encadrée, et fiable.
@@ -93,7 +93,7 @@ C’est le cœur de la promesse client : permettre de réserver un prestataire d
 
 —
 
-Étape 6 — Interface client (création de compte et tableau de bord)
+## Étape 6 — Interface client (création de compte et tableau de bord)
 
 👤 Pourquoi ?
 Pour pouvoir réserver, commenter, noter, etc., les utilisateurs doivent avoir une interface personnelle.
@@ -109,7 +109,7 @@ Pour pouvoir réserver, commenter, noter, etc., les utilisateurs doivent avoir u
 
 —
 
-Étape 7 — Paiement en ligne (optionnel dans MVP, recommandé en V2)
+## Étape 7 — Paiement en ligne (optionnel dans MVP, recommandé en V2)
 
 💳 Pourquoi ?
 Permet de monétiser la plateforme, sécuriser les transactions, et offrir un parcours fluide.
@@ -125,7 +125,7 @@ Permet de monétiser la plateforme, sécuriser les transactions, et offrir un pa
 
 —
 
-Étape 8 — Tableau de bord analytique (Prestataires + Admin)
+## Étape 8 — Tableau de bord analytique (Prestataires + Admin)
 
 📊 Pourquoi ?
 Les prestataires ont besoin de visibilité sur leur activité. L’admin doit pouvoir suivre l’évolution de la plateforme.
@@ -141,7 +141,7 @@ Les prestataires ont besoin de visibilité sur leur activité. L’admin doit po
 
 —
 
-Étape 9 — Système de messagerie interne
+## Étape 9 — Système de messagerie interne
 
 💬 Pourquoi ?
 Facilite les échanges sans quitter la plateforme, tout en sécurisant les discussions (traçabilité, modération).
@@ -156,7 +156,7 @@ Facilite les échanges sans quitter la plateforme, tout en sécurisant les discu
 
 —
 
-Étape 10 — Interface Admin & Modération
+## Étape 10 — Interface Admin & Modération
 
 🛡️ Pourquoi ?
 Permet de gérer les abus, contrôler les contenus, accompagner les utilisateurs, et suivre la qualité de la plateforme.
@@ -195,5 +195,3 @@ Permet de gérer les abus, contrôler les contenus, accompagner les utilisateurs
 * Tableau de bord analytique
 * Interface admin
 * Messagerie interne
-
-Souhaites-tu que je transforme cette roadmap en fichier Markdown ou en tableau structuré pour GitHub Projects / Notion ?
