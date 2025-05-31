@@ -87,6 +87,7 @@ Microservices proposés pour "Gestion des prestataires" :
 📦 Helm Chart – Structure proposée
 
 📁 charts/provider/
+
 <img width="237" alt="Capture d’écran 2025-05-31 à 19 32 43" src="https://github.com/user-attachments/assets/7f513209-7fe4-40e5-95bc-57b4d4346906" />
 
 
