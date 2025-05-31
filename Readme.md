@@ -112,11 +112,11 @@ Services tiers :
 
 📆 Roadmap
 
-Phase 0 — Spécifications & prototypes (✔️)
-Phase 1 — MVP Web (En cours)
-Phase 2 — Lancement V1 avec paiements et réservations
-Phase 3 — Version mobile + messagerie + fidélité
-Phase 4 — IA, AR, assistant événementiel
+* Phase 0 — Spécifications & prototypes (✔️)
+* Phase 1 — MVP Web (En cours)
+* Phase 2 — Lancement V1 avec paiements et réservations
+* Phase 3 — Version mobile + messagerie + fidélité
+* Phase 4 — IA, AR, assistant événementiel
 
 📸 Exemples de prestataires pris en charge
 
