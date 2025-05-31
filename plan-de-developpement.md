@@ -23,4 +23,5 @@
 | shared-namespace       | Services transversaux                          | PostgreSQL, Redis, Prometheus, Loki, Grafana    |
 
 
+## - Helm sera intégré dans le workflow CI/CD github actions pour automatiser les déploiements dans PrestaEvents
 ## - Pour la mise en place d'un namespace, un Chart Helm doit être crée
