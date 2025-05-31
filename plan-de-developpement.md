@@ -2,7 +2,7 @@
 
 ## - Liste des fonctionnalités :
 
-## 🧱 Structure des Namespaces
+### Structure des Namespaces
 
 | Namespace              | Fonction principale                            | Services / Pods                                 |
 |------------------------|-----------------------------------------------|-------------------------------------------------|
