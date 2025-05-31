@@ -1,6 +1,6 @@
-Très bien. Ton choix d'utiliser Kubernetes pour l'orchestration des services de PrestaEvents est pertinent pour un projet de cette envergure. Cela garantit une haute disponibilité, une scalabilité fine, une séparation claire des responsabilités entre services, ainsi qu’un déploiement propre et modulaire.
+Ton choix d'utiliser Kubernetes pour l'orchestration des services de PrestaEvents est pertinent pour un projet de cette envergure. Cela garantit une haute disponibilité, une scalabilité fine, une séparation claire des responsabilités entre services, ainsi qu’un déploiement propre et modulaire.
 
-Tu proposes une architecture où chaque fonctionnalité est regroupée dans un namespace dédié, avec ses propres pods/services. C’est une approche orientée vers le découplage fonctionnel maximal. C’est envisageable, mais mérite quelques ajustements et recommandations pour rester maintenable et évolutif.
+Tu proposes une architecture où chaque fonctionnalité est regroupée dans un namespace dédié, avec ses propres pods/services. C’est une approche orientée vers le découplage fonctionnel maximal.
 
 Ci-dessous, je te propose :
 
@@ -134,5 +134,3 @@ Pour les évolutions de PrestaEvents à long terme, cette architecture permet :
 * Extension de fonctionnalités par ajout de microservices
 * Support multi-région / multi-tenant
 * Déploiement multicloud / hybride si nécessaire
-
-Souhaitez-vous que je vous génère ce document sous forme de fichier Markdown ou PDF à intégrer dans votre documentation d’architecture ?
