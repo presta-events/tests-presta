@@ -1,6 +1,6 @@
 ## Pourquoi commencer le projet par la gestion des prestataires
 
-Excellente question. Le choix de la fonctionnalité initiale à développer est stratégique, car il influence :
+Le choix de la fonctionnalité initiale à développer est stratégique, car il influence :
 
 * La structure technique de l’application
 * L’expérience utilisateur dès le MVP
@@ -61,6 +61,4 @@ Avant d’implémenter la réservation ou le calendrier, assure-toi que l’on p
 * Contacter un prestataire
 
 Cela suffit à démontrer la valeur de PrestaEvents dès la V0.
-
-Souhaites-tu une roadmap concrète de ce parcours MVP (avec backlog, versions, priorisation) ?
 
