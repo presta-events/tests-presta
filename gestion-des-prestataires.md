@@ -88,12 +88,12 @@ Microservices proposés pour "Gestion des prestataires" :
 
 📁 charts/provider/
 
-*├── Chart.yaml
-*├── values.yaml
-*├── templates/
-*│   ├── namespace.yaml
-*│   ├── deployment-api.yaml
-*│   ├── deployment-db.yaml
+├── Chart.yaml
+├── values.yaml
+├── templates/
+│   ├── namespace.yaml
+│   ├── deployment-api.yaml
+│   ├── deployment-db.yaml
 │   ├── deployment-media.yaml
 │   ├── service-api.yaml
 │   ├── configmap.yaml
