@@ -89,6 +89,7 @@ Microservices proposés pour "Gestion des prestataires" :
 📁 charts/provider/
 
 ├── Chart.yaml
+
 ├── values.yaml
 ├── templates/
 │   ├── namespace.yaml
