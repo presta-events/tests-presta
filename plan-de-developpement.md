@@ -23,4 +23,4 @@
 | shared-namespace       | Services transversaux                          | PostgreSQL, Redis, Prometheus, Loki, Grafana    |
 
 
-## - Pour la mise en place d'un namespace, un chart Helm doit être crée
+## - Pour la mise en place d'un namespace, un Chart Helm doit être crée
