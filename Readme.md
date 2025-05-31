@@ -144,7 +144,3 @@ Ce projet est sous licence MIT.
 📬 Contact
 
 Pour toute question ou demande de collaboration, contactez-nous à : [hello@prestaevents.app](mailto:hello@prestaevents.app)
-
-—
-
-Souhaitez-vous que je vous le fournisse également en fichier Markdown prêt à copier-coller dans un dépôt GitHub ?
