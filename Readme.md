@@ -1,6 +1,4 @@
-Voici un exemple professionnel et structuré de README.md pour votre projet Presta Events, adapté à GitHub. Il présente clairement le concept, les fonctionnalités (existantes et à venir), la structure technique, et les instructions potentielles d’installation.
-
-README.md — Présentation du projet Presta Events
+# Présentation du projet Presta Events
 
 📛 Presta Events — Plateforme de mise en relation dans l'événementiel
 
