@@ -1,4 +1,4 @@
-Voici une **mise en place complète d'un chart Helm personnalisé** pour déployer une **fonctionnalité d'authentification Firebase** dans un environnement Kubernetes. L’objectif est de **configurer Firebase côté client** (souvent dans une application front), de gérer **les secrets** côté back, et de **déployer un microservice** (comme un proxy ou une API Gateway) qui exploite l’authentification Firebase.
+**Mise en place complète d'un chart Helm** pour déployer une **fonctionnalité d'authentification Firebase** en environnement Kubernetes. L’objectif est de **configurer Firebase côté client** (souvent dans une application front), de gérer **les secrets** côté back, et de **déployer un microservice** (comme un proxy ou une API Gateway) qui exploite l’authentification Firebase.
 
 ---
 
